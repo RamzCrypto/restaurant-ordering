@@ -63,10 +63,5 @@ When executed, the program demonstrates the entire lifecycle of an order, combin
 
 ---
 
-## 📝 Further Work
-*   Integrate a database (e.g., PostgreSQL) using the **DAO (Data Access Object)** pattern.
-*   Add a graphical user interface (GUI) using JavaFX or Swing.
-*   Implement the **State pattern** to manage the strict transitions between order statuses.
-*   Write unit tests using JUnit to validate discount strategies and order total calculations.
 
 
