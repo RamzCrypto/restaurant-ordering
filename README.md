@@ -1,7 +1,4 @@
 
-***
-
-```markdown
 # 🍔 Restaurant Ordering System
 
 ## 📌 Project Overview
